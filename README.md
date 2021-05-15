@@ -11,3 +11,5 @@
 <!--<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a> -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bepyan)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bepyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
