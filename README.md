@@ -2,8 +2,7 @@
 (+ backend ◡̈ )
 
 
-
-[![Notion Badge](https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://bepyan.notion.site/GET-START-de49308c21884e8a8037829b0c156931](https://bepyan.notion.site/GET-START-de49308c21884e8a8037829b0c156931)
+[![Notion Badge](https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://bepyan.notion.site/GET-START-de49308c21884e8a8037829b0c156931)](https://bepyan.notion.site/GET-START-de49308c21884e8a8037829b0c156931)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-262729?style=flat-square&link=http://bepyan.github.io/portfolio)](http://bepyan.github.io/portfolio)
 <a href="https://velog.io/@bepyan" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:bepyan@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
