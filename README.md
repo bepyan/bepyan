@@ -1,5 +1,14 @@
-### Want to be a Front-End Engineer!
-(+ backend ◡̈ )
+### I'm Edward
+A Junior Frontend Engineer.
+
+I am very **motivated🔥** to help people around me.   
+I love interacting with users smoothly, making complex things simple and simple.
+
+I think developer friendly and reusable code is good, but the **purpose of the code🎯** is important.   
+Focusing technological approach to problem solving.   
+I love [React](https://github.com/facebook/react), [Typescript](https://github.com/microsoft/TypeScript). 
+
+<br>
 
 [![Resume Badge](https://img.shields.io/badge/Resume-9065B0?style=flat-square&logo=iTerm2&link=https://bepyan.notion.site/Frontend-Developer-69fd245161734c1793e8df78dffe705c)](https://bepyan.notion.site/Frontend-Developer-69fd245161734c1793e8df78dffe705c)
 [![Blog Badge](https://img.shields.io/badge/Blog-1d1f21?style=flat-square&logo=Gatsby&logoColor=white&link=https://bepyan.github.io/)](https://bepyan.github.io/)
