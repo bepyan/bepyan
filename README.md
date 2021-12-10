@@ -1,4 +1,4 @@
-### I'm Edward
+### Hi, I'm Edward
 A Junior Frontend Engineer.
 
 I am very **motivated🔥** to help people around me.   
