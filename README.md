@@ -5,7 +5,6 @@ I am very **motivated🔥** to help people around me.
 I love interacting with users smoothly, making complex things simple and simple.
 
 I think friendly and reusable code is good, but the **purpose of the code🎯** is important.   
-I focus on the technological approach to problem-solving. 
 I love [React](https://github.com/facebook/react), [Typescript](https://github.com/microsoft/TypeScript). 
 
 <br>
