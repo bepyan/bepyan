@@ -1,4 +1,4 @@
-### 김평안 ﹒ Edward Kim
+### 김평안 ﹒ Edward
 
 FE Developer    
 I am **motivated**🔥 to help people around me.   
