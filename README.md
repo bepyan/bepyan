@@ -17,10 +17,10 @@
 <div>
   <samp>
     <p>Recent Writing</p>
+    <a href="https://bepyan.me/post/nexters-28">NEXTERS 28기를 맺으면서</a> <sub>26.03.22</sub> <br>
     <a href="https://bepyan.me/post/2025-settlement">2025 연말정산</a> <sub>25.12.31</sub> <br>
     <a href="https://bepyan.me/post/cursor-effect">Cursor Effect를 개발하면서</a> <sub>25.08.16</sub> <br>
     <a href="https://bepyan.me/post/agile">『함께 자라기』를 읽고</a> <sub>25.06.15</sub> <br>
-    <a href="https://bepyan.me/post/2024-settlement">2024 연말정산</a> <sub>24.12.31</sub> <br>
   </samp>
 </div>
 <br><br>
