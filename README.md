@@ -27,10 +27,10 @@
 <div>
   <samp>
     <p>Recent Note</p>
+    <a href="https://bepyan.me/post/kill-dev-server">숨겨진 개발서버 정리하기</a> <sub>26.08.14</sub> <br>
     <a href="https://bepyan.me/post/dynamic-subset-font">다이나믹 서브셋 만들기</a> <sub>26.07.30</sub> <br>
     <a href="https://bepyan.me/post/astro-dynamic-og">(Astro) Satori로 동적 OG 이미지 생성하기</a> <sub>25.08.29</sub> <br>
     <a href="https://bepyan.me/post/log-tree">디랙토리 구조를 쉽게 로깅하기</a> <sub>25.06.24</sub> <br>
-    <a href="https://bepyan.me/post/js-object-key-entries">(JS) Object.keys과 Object.entries 중 어떤 것을 써야할까?</a> <sub>25.04.17</sub> <br>
   </samp>
 </div>
 <!-- BLOG-POSTS:END -->
